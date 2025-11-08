@@ -61,7 +61,7 @@ npm install
 npm start
 
 
-Backend will run on http://localhost:3002
+Backend will run on http://localhost:5000
 
 # Setup Frontend
 cd ../frontend
